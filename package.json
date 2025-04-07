@@ -27,7 +27,7 @@
 		"test-coverage": "pnpm run test --coverage"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.44",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.45-alpha",
 		"@automattic/components": "2.2.0",
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/i18n-utils": "1.2.3",
