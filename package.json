@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-subscribers-dashboard",
-	"version": "0.1.8",
+	"version": "0.1.9-alpha",
 	"description": "WP Admin page to manage subscribers",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/subscribers-dashboard/#readme",
 	"bugs": {
@@ -74,7 +74,6 @@
 		"@babel/core": "7.26.10",
 		"@babel/runtime": "7.26.10",
 		"@babel/preset-env": "7.26.9",
-		"@jest/globals": "29.7.0",
 		"@storybook/react": "8.6.7",
 		"@testing-library/dom": "10.4.0",
 		"@testing-library/jest-dom": "6.6.3",
