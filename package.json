@@ -39,7 +39,7 @@
 		"@automattic/jetpack-connection": "^0.39.16",
 		"@automattic/jetpack-explat": "^0.2.20",
 		"@automattic/jetpack-licensing": "workspace:*",
-		"@automattic/jetpack-script-data": "^0.4.1",
+		"@automattic/jetpack-script-data": "^0.4.2-alpha",
 		"@automattic/typography": "1.0.0",
 		"@automattic/viewport-react": "1.0.1",
 		"@tanstack/react-query": "5.75.1",
