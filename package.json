@@ -27,7 +27,7 @@
 		"test-coverage": "pnpm run test --coverage"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.45",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.46-alpha",
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/components": "2.2.0",
 		"@automattic/i18n-utils": "1.2.3",
@@ -70,9 +70,9 @@
 	],
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.26.10",
-		"@babel/preset-env": "7.26.9",
-		"@babel/runtime": "7.26.10",
+		"@babel/core": "7.27.4",
+		"@babel/preset-env": "7.27.2",
+		"@babel/runtime": "7.27.4",
 		"@storybook/react": "8.6.7",
 		"@testing-library/dom": "10.4.0",
 		"@testing-library/jest-dom": "6.6.3",
