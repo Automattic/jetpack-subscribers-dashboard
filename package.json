@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-subscribers-dashboard",
-	"version": "0.1.20",
+	"version": "0.1.21-alpha",
 	"description": "WP Admin page to manage subscribers",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/subscribers-dashboard/#readme",
 	"bugs": {
@@ -27,7 +27,7 @@
 		"test-coverage": "pnpm run test --coverage"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.47",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.48-alpha",
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/components": "2.2.0",
 		"@automattic/i18n-utils": "1.2.3",
@@ -37,7 +37,7 @@
 		"@automattic/jetpack-boost-score-api": "^1.0.4",
 		"@automattic/jetpack-components": "^1.1.8-alpha",
 		"@automattic/jetpack-connection": "^1.2.8-alpha",
-		"@automattic/jetpack-explat": "^0.3.1",
+		"@automattic/jetpack-explat": "^0.3.2-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.4.4",
 		"@automattic/typography": "1.0.0",
@@ -70,9 +70,9 @@
 	],
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.27.4",
+		"@babel/core": "7.27.7",
 		"@babel/preset-env": "7.27.2",
-		"@babel/runtime": "7.27.4",
+		"@babel/runtime": "7.27.6",
 		"@storybook/react": "8.6.7",
 		"@testing-library/dom": "10.4.0",
 		"@testing-library/jest-dom": "6.6.3",
