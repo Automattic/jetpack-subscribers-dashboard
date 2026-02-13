@@ -35,7 +35,7 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.54-alpha",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.54",
 		"@wordpress/data": "10.39.0",
 		"@wordpress/dataviews": "11.3.0",
 		"@wordpress/element": "6.39.0",
