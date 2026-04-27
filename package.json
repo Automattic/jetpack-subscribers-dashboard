@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-subscribers-dashboard",
-	"version": "0.5.4",
+	"version": "0.5.5-alpha",
 	"private": true,
 	"description": "WP Admin page to manage subscribers",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/subscribers-dashboard/#readme",
@@ -35,7 +35,7 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.56",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.57-alpha",
 		"@wordpress/data": "10.44.0",
 		"@wordpress/dataviews": "14.1.0",
 		"@wordpress/element": "6.44.0",
